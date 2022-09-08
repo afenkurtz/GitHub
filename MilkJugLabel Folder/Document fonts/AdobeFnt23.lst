@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AtkinsonHyperlegible-Bold
+FamilyName:Atkinson Hyperlegible
+StyleName:Bold
+FullName:Atkinson Hyperlegible Bold
+MenuName:Atkinson Hyperlegible
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Evan\Creative Cloud Files\Food Label\Posts\GitHub\MilkJugLabel Folder\Document fonts\Atkinson-Hyperlegible-Bold-102.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36588
+FileModTime:1588279194
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Atkinson Hyperlegible Bold
+NameArray:0,Win,1,Atkinson Hyperlegible
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AtkinsonHyperlegible-Regular
+FamilyName:Atkinson Hyperlegible
+StyleName:Regular
+FullName:Atkinson Hyperlegible Regular
+MenuName:Atkinson Hyperlegible
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Evan\Creative Cloud Files\Food Label\Posts\GitHub\MilkJugLabel Folder\Document fonts\Atkinson-Hyperlegible-Regular-102.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34436
+FileModTime:1588279194
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Atkinson Hyperlegible Regular
+NameArray:0,Win,1,Atkinson Hyperlegible
+%EndFont
+

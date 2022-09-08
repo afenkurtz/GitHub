@@ -1,0 +1,52 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: SampleLabel.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: inches
+Artboard Dimensions: 17.8886 in x 11.6051 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+Helvetica* (not installed)
+GillSansStd ExtraBold* (not installed)
+Helvetica BoldOblique* (not installed)
+Helvetica Oblique* (not installed)
+Helvetica Bold* (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Atkinson Hyperlegible Bold (OTF)
+Atkinson Hyperlegible Regular (OTF)
+Atkinson Hyperlegible Italic (OTF)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+Updated Nutritional Panel Templates (Illustrator editable) - Integrative Flavors.pdf
+Type: PDF
+
+Nutrition-Facts-Label-Download-Label4.pdf
+Type: PDF
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
